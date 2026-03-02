@@ -1,0 +1,43 @@
+.tb1 table{
+border-color: teal;
+
+}
+.container{
+background: linear-gradient(tomato,skyblue);
+background-repeat: no-repeat;
+height: 50rem;
+padding:0px;
+margin: -10px;
+width: 100rem;
+padding-right: 140px;
+
+}
+
+
+
+h1{
+    padding-left: 31rem;
+    padding-top: 30px;
+}
+h2{
+
+    padding-left: 30rem;
+    padding-top: 0px;
+}
+.tb1 table{
+margin-left:6rem;
+margin-right: 1200px;
+
+
+}
+*{
+  font-size: 15px;
+
+}
+h1,h2{
+    padding-left: 155px;
+}
+h2{
+padding-left: 165px;
+
+}
