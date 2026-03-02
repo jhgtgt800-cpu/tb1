@@ -15,7 +15,9 @@
 @media (max-width: 468px) {
  .tb1 table{
      margin-right: 40%;
-     margin-top: 60px;
+     margin-top: 60px
+     ;position: absolute;
+     top: 60px;
     }
     .s{
         margin-left: -7%;
