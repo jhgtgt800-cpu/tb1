@@ -47,21 +47,26 @@ h2{
     margin-left: 1%;
 }
 *{
-    font-size: 8px;
+    font-size: 13px;
     width: 7rem;
      
 }
 h1{
-    margin: 20px;
+    margin-left: 200px;
 }
 .tb1 table{
+  
     margin-left: 140px;
 }
 .container{
-     height: 100%;
+    min-width: 98%;
+    min-height: 99%;
+    max-height: 100%;
      max-width: 100%;
 margin-top: -20px;
     }
 
-
+h2{
+    margin-left: 210px;
+}
 }
